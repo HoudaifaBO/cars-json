@@ -6,7 +6,7 @@
     "price": 120000,
     "isAvailable": true,
     "releaseDate": "2023-07-15",
-    "imageUrl": "https://github.com/HoudaifaBO/cars/blob/main/TurboFalconX.jpg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/HoudaifaBO/cars-json/refs/heads/main/assets/images/TurboFalconX.jpg",
     "category": "Sportwagen",
     "features": [
       "Twin-Turbo V8",
@@ -28,7 +28,7 @@
     "price": 45000,
     "isAvailable": true,
     "releaseDate": "2024-01-10",
-    "imageUrl": "https://github.com/HoudaifaBO/cars/blob/main/EcoDriveEV.jpg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/HoudaifaBO/cars-json/refs/heads/main/assets/images/EcoDriveEV.jpg",
     "category": "Elektrische Auto",
     "features": [
       "500km Range",
@@ -50,7 +50,7 @@
     "price": 75000,
     "isAvailable": false,
     "releaseDate": "2022-06-20",
-    "imageUrl": "https://github.com/HoudaifaBO/cars/blob/main/RoadMaster4x4.jpg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/HoudaifaBO/cars-json/refs/heads/main/assets/images/RoadMaster4x4.jpg",
     "category": "SUV",
     "features": [
       "All-Wheel Drive",
@@ -72,7 +72,7 @@
     "price": 30000,
     "isAvailable": true,
     "releaseDate": "2023-09-05",
-    "imageUrl": "https://github.com/HoudaifaBO/cars/blob/main/UrbanMiniS.jpg?raw=true",
+    "imageUrl": "https://github.com/HoudaifaBO/cars-json/blob/main/assets/images/UrbanMiniS.jpg",
     "category": "Compact",
     "features": [
       "Hybrid Engine",
@@ -94,7 +94,7 @@
     "price": 250000,
     "isAvailable": false,
     "releaseDate": "2023-05-12",
-    "imageUrl": "https://github.com/HoudaifaBO/cars/blob/main/HyperionSpeedster.jpg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/HoudaifaBO/cars-json/refs/heads/main/assets/images/HyperionSpeedster.jpg",
     "category": "Hypercar",
     "features": [
       "Hybrid V12 Engine",
@@ -116,7 +116,7 @@
     "price": 95000,
     "isAvailable": true,
     "releaseDate": "2024-02-01",
-    "imageUrl": "https://github.com/HoudaifaBO/cars/blob/main/GrandVoyagerLX.jpg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/HoudaifaBO/cars-json/refs/heads/main/assets/images/GrandVoyagerLX.jpg",
     "category": "Luxury Sedan",
     "features": [
       "Massage Seats",
@@ -138,7 +138,7 @@
     "price": 60000,
     "isAvailable": true,
     "releaseDate": "2024-06-18",
-    "imageUrl": "https://github.com/HoudaifaBO/cars/blob/main/SolarCruiser.jpg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/HoudaifaBO/cars-json/refs/heads/main/assets/images/SolarCruiser.jpg",
     "category": "Elektrische Auto",
     "features": [
       "100% Solar Powered",
@@ -160,7 +160,7 @@
     "price": 85000,
     "isAvailable": false,
     "releaseDate": "2023-11-30",
-    "imageUrl": "https://github.com/HoudaifaBO/cars/blob/main/ThunderStriker.jpg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/HoudaifaBO/cars-json/refs/heads/main/assets/images/ThunderStriker.jpg",
     "category": "Muscle Car",
     "features": [
       "Supercharged V8",
@@ -182,7 +182,7 @@
     "price": 110000,
     "isAvailable": true,
     "releaseDate": "2024-09-01",
-    "imageUrl": "https://github.com/HoudaifaBO/cars/blob/main/GlacierRover.jpg?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/HoudaifaBO/cars-json/refs/heads/main/assets/images/GlacierRover.jpg",
     "category": "SUV",
     "features": [
       "Hybrid Powertrain",
@@ -204,7 +204,7 @@
     "price": 275000,
     "isAvailable": false,
     "releaseDate": "2025-01-15",
-    "imageUrl": "https://github.com/HoudaifaBO/cars/blob/main/ZenithPhantom.jpg?raw=true",
+    "imageUrl": "https://github.com/HoudaifaBO/cars-json/blob/main/assets/images/ZenithPhantom.jpg",
     "category": "Luxury Sedan",
     "features": [
       "Silent Electric Drive",
