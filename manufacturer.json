@@ -1,0 +1,72 @@
+[
+  {
+    "id": "MANU-001",
+    "name": "Falcon Motors",
+    "founder": "James Falcon",
+    "foundedYear": 1985,
+    "motto": "Speed Redefined"
+  },
+  {
+    "id": "MANU-002",
+    "name": "EcoMotors",
+    "founder": "Lisa Green",
+    "foundedYear": 2010,
+    "motto": "Driving the Future"
+  },
+  {
+    "id": "MANU-003",
+    "name": "MasterAuto",
+    "founder": "David Roadman",
+    "foundedYear": 1995,
+    "motto": "Conquer Any Road"
+  },
+  {
+    "id": "MANU-004",
+    "name": "CityDrive",
+    "founder": "Robert Klein",
+    "foundedYear": 2005,
+    "motto": "Efficiency Meets Comfort"
+  },
+  {
+    "id": "MANU-005",
+    "name": "Hyperion Motors",
+    "founder": "Liam Vector",
+    "foundedYear": 2018,
+    "motto": "Speed Without Limits"
+  },
+  {
+    "id": "MANU-006",
+    "name": "Voyager Autos",
+    "founder": "Stephanie Crown",
+    "foundedYear": 2000,
+    "motto": "Luxury in Motion"
+  },
+  {
+    "id": "MANU-007",
+    "name": "SolarTech Motors",
+    "founder": "Emma Bright",
+    "foundedYear": 2015,
+    "motto": "Driving on Sunshine"
+  },
+  {
+    "id": "MANU-008",
+    "name": "American Thunder",
+    "founder": "Jack Reynolds",
+    "foundedYear": 1972,
+    "motto": "Raw Power, Pure Performance"
+  },
+  {
+    "id": "MANU-009",
+    "name": "Glacier Automobiles",
+    "founder": "Lucas White",
+    "foundedYear": 1989,
+    "motto": "Explore Without Limits"
+  },
+  {
+    "id": "MANU-010",
+    "name": "Zenith Motors",
+    "founder": "Alexander Sterling",
+    "foundedYear": 1950,
+    "motto": "Excellence Without Compromise"
+  }
+]
