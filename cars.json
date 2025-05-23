@@ -72,7 +72,7 @@
     "price": 30000,
     "isAvailable": true,
     "releaseDate": "2023-09-05",
-    "imageUrl": "https://github.com/HoudaifaBO/cars-json/blob/main/assets/images/UrbanMiniS.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/HoudaifaBO/cars-json/refs/heads/main/assets/images/UrbanMiniS.jpg",
     "category": "Compact",
     "features": [
       "Hybrid Engine",
