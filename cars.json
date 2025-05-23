@@ -204,7 +204,7 @@
     "price": 275000,
     "isAvailable": false,
     "releaseDate": "2025-01-15",
-    "imageUrl": "https://github.com/HoudaifaBO/cars-json/blob/main/assets/images/ZenithPhantom.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/HoudaifaBO/cars-json/refs/heads/main/assets/images/ZenithPhantom.jpg",
     "category": "Luxury Sedan",
     "features": [
       "Silent Electric Drive",
